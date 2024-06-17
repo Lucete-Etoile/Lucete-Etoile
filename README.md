@@ -7,6 +7,10 @@
 <img src="https://img.shields.io/badge/CSS-98FB98?style=fot-the-badge&logo=CSS3&logoColor=1572B6">
 <img src="https://img.shields.io/badge/Java Script-98FB98?style=fot-the-badge&logo=JavaScript&logoColor=F7DF1E">
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)
+
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucete-Etoile&layout=compact)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
